@@ -1,13 +1,13 @@
 {
-  "name": "بـوت جـمثون",
-  "description": "بـوت جمثون العربي الاول في الشرق الأوسط السورس مجاني لا يخدعك أحد في تنصيب - قناة السورس @JMTHON ",
+  "name": "بـوت xam",
+  "description": "بـوت xam العربي الاول في الشرق الأوسط السورس مجاني لا يخدعك أحد في تنصيب - قناة السورس @api_web ",
   "logo": "https://telegra.ph/file/5f6ef13851dcf0d6fc72b.jpg",
   "keywords": [
     "plugin",
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/JMTHON-AR/JMTHON-PACK",
+  "repository": "https://github.com/joker1423/xam",
   "website": "#TODO",
   "success_url": "#TODO",
   "env": {
