@@ -1,7 +1,7 @@
-FROM JMTHON-AR/JM-THON:alpine
+FROM joker1423/xam2:alpine
 
 #clonning repo 
-RUN git clone https://github.com/JMTHON-AR/JM-THON.git /root/userbot
+RUN git clone https://github.com/joker1423/xam2.git /root/userbot
 #working directory 
 WORKDIR /root/userbot
 
